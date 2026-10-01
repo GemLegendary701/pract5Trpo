@@ -1,0 +1,14 @@
+C:\Users\st310-07\Desktop\pract5_Borisov\bin\Debug\net8.0\pract5_Borisov.exe
+C:\Users\st310-07\Desktop\pract5_Borisov\bin\Debug\net8.0\pract5_Borisov.deps.json
+C:\Users\st310-07\Desktop\pract5_Borisov\bin\Debug\net8.0\pract5_Borisov.runtimeconfig.json
+C:\Users\st310-07\Desktop\pract5_Borisov\bin\Debug\net8.0\pract5_Borisov.dll
+C:\Users\st310-07\Desktop\pract5_Borisov\bin\Debug\net8.0\pract5_Borisov.pdb
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\pract5_Borisov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\pract5_Borisov.AssemblyInfoInputs.cache
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\pract5_Borisov.AssemblyInfo.cs
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\pract5_Borisov.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\pract5_Borisov.dll
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\refint\pract5_Borisov.dll
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\pract5_Borisov.pdb
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\pract5_Borisov.genruntimeconfig.cache
+C:\Users\st310-07\Desktop\pract5_Borisov\obj\Debug\net8.0\ref\pract5_Borisov.dll
